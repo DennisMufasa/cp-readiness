@@ -1,0 +1,8 @@
+.navbar{
+    background:lightgrey;
+    position: fixed;
+    overflow: hidden;
+    width: 100%;
+    bottom: 0;
+}
+
